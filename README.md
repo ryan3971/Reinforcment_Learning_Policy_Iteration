@@ -9,3 +9,6 @@ Coded in c++. Compilation can be done via the command "g++ Reinforcment_Learning
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/30581189/102838142-724cf400-43cb-11eb-8e05-e8763258a486.png)
+
+# Features
+You can change the value of the winning number (i.e. change 20 to a higher or lower value) and the numbers you can increment by.
